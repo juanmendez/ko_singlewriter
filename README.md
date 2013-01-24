@@ -1,6 +1,8 @@
 ko-singlewriter
 ===============
 
+this is an extension to knockoutjs. for more information about knockoutjs go to http://knockoutjs.com/
+
 singleWriter follows up the observer pattern.
  
 There can be situations where several views update, but require a single writer to 
