@@ -1,4 +1,4 @@
-ko_singlewriter
+ko-singlewriter
 ===============
 
 singleWriter follows up the observer pattern.
