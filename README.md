@@ -32,4 +32,9 @@ The way this simple extension to knockoutjs works is as follows
 ko_observable.subscribe( function(newValue){
  	  //do any necessary work and conditions for the next line
                    ko_observable( 3, writer )  	
-  }, writer ); 
+  }, writer );
+
+here are two jsfiddle examples using this extension
+http://jsfiddle.net/juanmendez/zkRFc/
+http://jsfiddle.net/juanmendez/MkSxm/
+
